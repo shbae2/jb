@@ -45,23 +45,21 @@ const pubs = [
 ];
 const wip = [
  {t:"The trade-off: A procedural perspective of AI transparency in recommendation",a:"Wang, X., & Bae, J.*",s:"Revise & resubmit",j:"Technological Forecasting and Social Change",g:"review"},
- {t:"The engagement paradox of real-time eWOM: How consensus and arousal heuristics shape immediate and persistent sales in live commerce",a:"Hwang, J., Oh, S.*, & Bae, J.",s:"Major revision",j:"Information &amp; Management",g:"review"},
+ {t:"The engagement paradox of real-time eWOM: How consensus and arousal heuristics shape immediate and persistent sales in live commerce",a:"Hwang, J., Oh, S.*, & Bae, J.",s:"Revise & resubmit",j:"Information &amp; Management",g:"review"},
+ {t:"When reusable products meet masstige brands: The interplay of product design and public self-consciousness in purchase behaviors",a:"Bae, J., & Jang, J.*",s:"Revise & resubmit",j:"Journal of Product and Brand Management",g:"review"},
  {t:"Turning fear into fuel: How competitive mindset reverses the negative impact of ambivalence on use intention of social robots via trade-off discomfort",a:"Bae, J.*, Oh, S., Cho, M., & Kim, S. H.",s:"Under review",j:"Journal of Business Research",g:"review"},
- {t:"Matching generative AI type with prompt modality to unlock human creativity",a:"Bae, J.*, Cho, E., Cho, M., & Bae, S. H.",s:"Under review",j:"Internet Research",g:"review"},
+ {t:"Matching generative AI type with prompt modality to unlock human creativity",a:"Bae, J.*, Cho, M., & Bae, S. H.",s:"Under review",j:"Journal of Research in Interactive Marketing",g:"review"},
  {t:"AI–consumer co-creation in the fashion industry",a:"Xue, K., & Bae, J.*",s:"Under review",j:"Computers in Human Behavior",g:"review"},
- {t:"When reusable products meet masstige brands: The interplay of product design and public self-consciousness in purchase behaviors",a:"Bae, J., & Jang, J.*",s:"Under review",j:"Journal of Retailing and Consumer Services",g:"review"},
  {t:"Playing with acquaintances in digital games enhances generalized trust: The roles of self-efficacy and leisure satisfaction",a:"Bae, S., Bae, J.*, & Cho, M.*",s:"Under review",j:"International Journal of Human–Computer Interaction",g:"review"},
- {t:"Trade-off discomfort between sustainability and excellence on attitude toward luxury brands",a:"Jiang, Q., Bae, J.*, & Kim, K. H.",s:"Under review",j:"International Journal of Advertising",g:"review"},
- {t:"When social care robots talk about past or future: The effects of mental time travel on older adults' health self-efficacy",a:"Bae, J., Cho, M., & Bae, S.",s:"Data analysis",g:"progress"},
  {t:"How cognitive age drives resistance to social care robots and how high-tech framing resolves it",a:"Bae, J., Cho, M., & Bae, S.",s:"Data collection",g:"progress"},
  {t:"How role–task fit shapes user behavioral intentions from a role congruity perspective",a:"Cho, M., Bae, J., & Roschk, H.*",s:"Preparing for submission",g:"progress"},
  {t:"Thinking ahead: How future-oriented mental time travel discourages unethical AI use in higher education",a:"Bae, J., & Cho, M.*",s:"Preparing for submission",g:"progress"},
- {t:"Fantasy vs. reality in virtual retail: How environmental fidelity shapes imagination and creative consumer choice",a:"Jang, J.*, Lee, H. K.*, & Bae, J.*",s:"Drafting",g:"progress"},
  {t:"Differentiating phygital: Two roads diverged in a retail space",a:"Duan, Y., & Bae, J.",s:"Data analysis",g:"progress"},
  {t:"Dressed by AI: How AI stylist recommendation modes shape consumer satisfaction",a:"Duan, Y., & Bae, J.",s:"Data collection",g:"progress"},
  {t:"The impact of algorithmic fairness on consumer responses: The moderating role of platform contexts",a:"Xue, K., & Bae, J.*",s:"Data collection",g:"progress"},
  {t:"From empathy to apathy: Why consumers become less engaged in cause-related marketing",a:"Dai, Y., & Bae, J.*",s:"Data collection",g:"progress"},
- {t:"Logo visibility and brand placement: The role of self-presentation in Generation Z's responses to masstige and luxury brands",a:"Kim, Y., Bae, J., & Cho, M.",s:"Preparing for submission",g:"progress"}
+ {t:"Logo visibility and brand placement: The role of self-presentation in Generation Z's responses to masstige and luxury brands",a:"Kim, Y., Bae, J., & Cho, M.",s:"Preparing for submission",g:"progress"},
+ {t:"Trade-off discomfort between sustainability and excellence on attitude toward luxury brands",a:"Jiang, Q., Bae, J.*, & Kim, K. H.",s:"In progress",g:"progress"}
 ];
 const conf = [
  ["2026","Zhang, Q., Zhang, Q., Deng, Y., & Bae, J.","When AI authenticates culture: Generative AI disclosure and brand authenticity in the Guochao fashion movement","Global Fashion Management Conference, Madrid"],
