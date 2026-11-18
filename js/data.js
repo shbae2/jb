@@ -180,13 +180,13 @@ const news = [
 
 /* ---------- COLLABORATORS ---------- */
 const collaborators = [
- {n:"Kunlun Xue",img:"images/col-xue.jpg",role:"PhD Candidate (since September 2024)",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
-  bio:"Kunlun Xue is a PhD candidate at the School of Fashion and Textiles, The Hong Kong Polytechnic University. His research focuses on consumer behavior, particularly how AI technologies shape consumers' perceptions, experiences, and decisions.",
+ {n:"Kunlun Xue",img:"images/col-xue.jpg",role:"PhD Student",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
+  bio:"Kunlun Xue is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. His research focuses on consumer behavior, particularly how AI technologies shape consumers' perceptions, experiences, and decisions.",
   links:[["ORCID","https://orcid.org/0009-0009-6876-350X"]]},
- {n:"Xiang Wang",img:"images/col-wang.jpg",role:"PhD Candidate in Fashion Business",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
-  bio:"Xiang Wang is a PhD candidate in fashion business at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Her research examines how people evaluate AI recommendation systems, with a focus on transparency, fairness perceptions, and consumer trust.",links:[]},
- {n:"Yonglin Dai",img:"images/col-dai.jpg",role:"PhD Candidate in Fashion Business",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
-  bio:"Yonglin Dai is a PhD candidate in fashion business at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Her research interests include cause-related marketing, virtual influencers, digital marketing, and prosocial behavior. Her published work focuses on digital humans, social media marketing, and consumer psychology.",links:[]},
+ {n:"Xiang Wang",img:"images/col-wang.jpg",role:"PhD Student",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
+  bio:"Xiang Wang is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Her research examines how people evaluate AI recommendation systems, with a focus on transparency, fairness perceptions, and consumer trust.",links:[]},
+ {n:"Yonglin Dai",img:"images/col-dai.jpg",role:"PhD Student",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
+  bio:"Yonglin Dai is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Her research interests include cause-related marketing, virtual influencers, digital marketing, and prosocial behavior. Her published work focuses on digital humans, social media marketing, and consumer psychology.",links:[]},
  {n:"Yihui Duan",img:"images/col-duan.jpg",role:"PhD Student",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
   bio:"Yihui Duan is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Yihui's research interests include phygital retail, artificial intelligence in marketing, and consumer psychology. Drawing on cognitive science, Yihui's current work examines how consumers evaluate AI recommendations and make decisions in shopping experiences that combine physical and digital interactions.",links:[]},
  {n:"Yun Ho Park",img:"images/col-park.jpg",role:"Industry Collaborator",aff:"BNK Kyongnam Bank Co., Ltd.",
