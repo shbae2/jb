@@ -180,6 +180,9 @@ const news = [
 
 /* ---------- COLLABORATORS ---------- */
 const collaborators = [
+ {n:"Yun Ho Park",img:"images/col-park.jpg",role:"PhD in Business Administration, Changwon National University",aff:"BNK Kyongnam Bank Co., Ltd.",
+  bio:"Yun Ho Park is with BNK Kyongnam Bank. Drawing on extensive professional experience spanning human resources, strategic planning, banking operations, and digital transformation, his research focuses on the structural evolution and technological innovation of the financial industry. With a particular emphasis on AI-driven robo-advisory services, he explores the advancement of intelligent financial services and emerging paradigms in digital finance, focusing on the convergence of artificial intelligence and financial services.",
+  links:[]},
  {n:"Kunlun Xue",img:"images/col-xue.jpg",role:"PhD Student",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
   bio:"Kunlun Xue is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. His research focuses on consumer behavior, particularly how AI technologies shape consumers' perceptions, experiences, and decisions.",
   links:[["ORCID","https://orcid.org/0009-0009-6876-350X"]]},
@@ -188,8 +191,5 @@ const collaborators = [
  {n:"Yonglin Dai",img:"images/col-dai.jpg",role:"PhD Student",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
   bio:"Yonglin Dai is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Her research interests include cause-related marketing, virtual influencers, digital marketing, and prosocial behavior. Her published work focuses on digital humans, social media marketing, and consumer psychology.",links:[]},
  {n:"Yihui Duan",img:"images/col-duan.jpg",role:"PhD Student",aff:"School of Fashion and Textiles, The Hong Kong Polytechnic University",
-  bio:"Yihui Duan is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Yihui's research interests include phygital retail, artificial intelligence in marketing, and consumer psychology. Drawing on cognitive science, Yihui's current work examines how consumers evaluate AI recommendations and make decisions in shopping experiences that combine physical and digital interactions.",links:[]},
- {n:"Yun Ho Park",img:"images/col-park.jpg",role:"Industry Collaborator",aff:"BNK Kyongnam Bank Co., Ltd.",
-  bio:"Yun Ho Park is with BNK Kyongnam Bank. Drawing on extensive professional experience spanning human resources, strategic planning, banking operations, and digital transformation, his research focuses on the structural evolution and technological innovation of the financial industry. With a particular emphasis on AI-driven robo-advisory services, he explores the advancement of intelligent financial services and emerging paradigms in digital finance, focusing on the convergence of artificial intelligence and financial services.",
-  links:[]}
+  bio:"Yihui Duan is a PhD student at the School of Fashion and Textiles, The Hong Kong Polytechnic University. Yihui's research interests include phygital retail, artificial intelligence in marketing, and consumer psychology. Drawing on cognitive science, Yihui's current work examines how consumers evaluate AI recommendations and make decisions in shopping experiences that combine physical and digital interactions.",links:[]}
 ];

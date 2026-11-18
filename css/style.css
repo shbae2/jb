@@ -256,3 +256,7 @@
 .pub-group{font-family:var(--sans);font-size:12px;font-weight:600;letter-spacing:1.8px;text-transform:uppercase;color:var(--rose);margin:44px 0 0;padding-bottom:10px;border-bottom:1px solid var(--green)}
 .pub-group:first-child{margin-top:22px}
 .pub-group span{color:var(--muted);font-weight:500;margin-left:6px}
+
+.degree{margin-top:18px;padding-left:14px;border-left:2px solid var(--green)}
+.degree .deg-label{display:block;font-family:var(--serif);font-size:20px;color:var(--name);line-height:1.25}
+.degree .deg-where{display:block;font-size:13.5px;color:var(--muted);margin-top:3px;letter-spacing:.2px}
